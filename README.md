@@ -1,7 +1,4 @@
-<p align="center">
-  <a href="https://github.com/ninja1002"><img src="https://readme-typing-svg.herokuapp.com/?lines=Senior%20Blockchain%20developer;Web%20and%20Mobile%20Expert;5%2B%20years%20of%20rich%20experience;Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
-</p>
-<h2>[MOBILE]</h2>
+<h2>Skills</h2>
 <b>I am a senior mobile developer with rich experience in developing various android and iOS applications.</b><br>
 <b>Being well versed in backend I also have notable experience and expertise in game development as well, that includes the following skill set :</b><br>
 <br>&nbsp; &nbsp; ✓ Swift
