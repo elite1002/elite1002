@@ -5,7 +5,6 @@
 
 <!-- ### Hi there 👋 -->
 <h1 align="center">Hello there 👋, fellow DEVELOPERS!</h1>
-<h3 align="center">I'm a Senior Mobile App Developer.</h3>
 
 <!-- <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">  -->
 <br>
