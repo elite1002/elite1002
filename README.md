@@ -1,17 +1,6 @@
 <h2>Skills</h2>
 <b>I am a senior software developer with rich experience in developing various sides.</b><br>
 <b>Being well versed in backend I also have notable experience and expertise in game development as well, that includes the following skill set :</b><br>
-<br>&nbsp; &nbsp; ✓ Swift
-<br>&nbsp; &nbsp; ✓ Kotlin
-<br>&nbsp; &nbsp; ✓ Flutter
-<br>&nbsp; &nbsp; ✓ React Native
-<br>&nbsp; &nbsp; ✓ Java
-<br>&nbsp; &nbsp; ✓ Kotlin
-<br>&nbsp; &nbsp; ✓ Unity
-<br>&nbsp; &nbsp; ✓ Unreal Engine
-<br>&nbsp; &nbsp; ✓ Swift UI
-<br>&nbsp; &nbsp; ✓ Github, Gitlab
-
 <br/>  
 
 <!-- ### Hi there 👋 -->
